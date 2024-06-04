@@ -21,4 +21,4 @@
 - 论坛: <https://forum.openeuler.org/c/other-tec/15-category/15>
 - 邮件列表: <riscv@openeuler.org>
 - 实习生工作中心：<https://github.com/openeuler-riscv/oerv-team>
-- 兴趣分组管理: <https://github.com/openeuler-riscv/oerv-admin/groups.md>
+- 兴趣分组管理: <https://github.com/openeuler-riscv/oerv-admin/blob/main/groups/README.md>
