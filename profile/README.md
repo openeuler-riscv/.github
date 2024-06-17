@@ -24,5 +24,7 @@
 - 兴趣分组管理: <https://github.com/openeuler-riscv/oerv-admin/blob/main/groups/README.md>
 - Discord 邀请链接: <https://discord.gg/f9znRFjh>
 - 微信公众号:
-  ![image](https://github.com/openeuler-riscv/.github/assets/82633274/40fe1b28-7521-41f4-83b6-2f1cce843e60)
+
+  ![image](https://github.com/openeuler-riscv/.github/assets/82633274/c82f3db0-2ce3-438f-ade6-ef4be58d0e88)
+
 
