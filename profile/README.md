@@ -23,6 +23,7 @@
 - 实习生工作中心：<https://github.com/openeuler-riscv/oerv-team>
 - 兴趣分组管理: <https://github.com/openeuler-riscv/oerv-admin/blob/main/groups/README.md>
 - Discord 邀请链接: <https://discord.gg/f9znRFjh>
+- 任务中心: <https://github.com/orgs/openeuler-riscv/projects/1>
 - 微信公众号:
 
   ![image](https://github.com/openeuler-riscv/.github/assets/82633274/c82f3db0-2ce3-438f-ade6-ef4be58d0e88)
