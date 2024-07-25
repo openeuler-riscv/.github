@@ -22,7 +22,7 @@
 - 邮件列表: <riscv@openeuler.org>
 - 实习生工作中心：<https://github.com/openeuler-riscv/oerv-team>
 - 兴趣分组管理: <https://github.com/openeuler-riscv/oerv-admin/blob/main/groups/README.md>
-- Discord 邀请链接: <https://discord.gg/f9znRFjh>
+- Discord 邀请链接: <https://discord.gg/drG6qUsRc4>
 - 任务中心: <https://github.com/orgs/openeuler-riscv/projects/1>
 - 微信公众号:
 
